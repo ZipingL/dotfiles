@@ -27,8 +27,5 @@ else # macOS `ls`
 	export LSCOLORS='BxBxhxDxfxhxhxhxhxcxcx'
 fi
 
-
-
-
 # Always use color output for `ls`
 alias ls="command ls ${colorflag}"

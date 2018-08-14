@@ -2,7 +2,7 @@
 
 This is largely based off of https://github.com/mathiasbynens/dotfiles
 
-To update your shell (assuming that working local has pushed necessary changes), `cd` into local `dotfiles` repository and then:
+To update your shell, `cd` into local `dotfiles` repository and then:
 
 ```bash
 source bootstrap.sh
