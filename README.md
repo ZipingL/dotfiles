@@ -1,4 +1,4 @@
-# dotfiles
+# Rafi's dotfiles
 
 This is largely based off of https://github.com/mathiasbynens/dotfiles
 
