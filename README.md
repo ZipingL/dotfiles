@@ -45,3 +45,5 @@ tells you what kind of file you're looking at
 history
 ```
 shows you your previous bash commands
+
+gucci gang
